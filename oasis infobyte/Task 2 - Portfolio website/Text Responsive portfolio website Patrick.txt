@@ -1,0 +1,38 @@
+
+
+	
+
+	// Show error message
+
+		Message not sent (service error)
+
+
+* Copy this code into your (Email Template)
+
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Project: {{user_project}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__title
+Patrick <span>Moz</span>
+
+.footer__education
+Front-end Developer  
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
+
+.footer__social-icon (clip-path)
+polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
